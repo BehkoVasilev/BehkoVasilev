@@ -10,7 +10,7 @@
 
 - 🔭 I have basic knowledge in C#, JavaScript, SQLite , MySQL
 
-- 👯 Мy hobbies are: I would say that I really enjoy being in the nature, playing basketball, trips with friends.
+- 👯 Мy hobbies are: I would say that I really enjoy being in the nature, playing basketball, trips with friends and fishing.
 
 - ⚡ I’m looking for a new job and new challenges. 
 
@@ -31,3 +31,4 @@
 <img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
