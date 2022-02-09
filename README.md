@@ -6,7 +6,7 @@
 ### I'm a realist, positive person and enthusiastic about learning new tehnologies and improve my skills.
 <br />
 
-- 🌱 I’m currently learning Python, HTML5, CSS, SQLite , MySQL
+- 🌱 I’m currently learning Python, HTML5, CSS, JavaScript, SQLite , MySQL
 
 - 👯 Мy hobbies are: I would say that I really enjoy being in the nature, playing basketball, trips with friends.
 
@@ -27,3 +27,4 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
