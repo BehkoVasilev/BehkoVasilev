@@ -6,9 +6,9 @@
 ### I'm a realist, positive person and enthusiastic about learning new tehnologies and improve my skills.
 <br />
 
-- 🌱 I’m currently learning Python, HTML5, CSS, JavaScript
+- 🌱 I’m currently learning JavaScript, HTML5, CSS
 
-- 🔭 I have basic knowledge in C#, SQLite , MySQL and advanced in Python and JavaScript
+- 🔭 I have advanced knowledge in Python and JavaScript and basic in C#, SQLite , MySQL
 
 - 👯 Мy hobbies are: I would say that I really enjoy being in the nature, playing basketball, trips with friends and fishing.
 
