@@ -2,7 +2,7 @@
 
 
 
-### Python Developer from Bulgaria! 
+### JS Developer from Bulgaria! 
 ### I'm a realist, positive person and enthusiastic about learning new tehnologies and improve my skills.
 <br />
 
