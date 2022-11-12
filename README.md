@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning JavaScript, HTML5, CSS
 
-- 🔭 I have advanced knowledge in Python and JavaScript and basic in C#, SQLite , MySQL
+- 🔭 I have basic knowledge in Python, JavaScript, HTML5, CSS, C#, SQLite , MySQL
 
 - 👯 Мy hobbies are: I would say that I really enjoy being in the nature, playing basketball, trips with friends and fishing.
 
