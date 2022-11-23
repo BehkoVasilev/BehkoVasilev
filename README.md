@@ -6,7 +6,7 @@
 ### I'm a realist, positive person and enthusiastic about learning new tehnologies and improve my skills.
 <br />
 
-- 🌱 I’m currently learning JavaScript, HTML5, CSS
+- 🌱 I’m currently learning Web Development with JavaScript
 
 - 🔭 I have basic knowledge in Python, JavaScript, HTML5, CSS, C#, SQLite , MySQL
 
